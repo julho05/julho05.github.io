@@ -69,7 +69,6 @@ centra-contabilidade/
 │   ├── comercio/
 │   ├── industria/
 │   ├── prestadores-de-servicos/
-│   ├── contabilidade-eleitoral/
 │   ├── contabilidade-para-condominios/
 │   └── administradora-de-bens-e-holding-familiar/
 │
@@ -291,12 +290,13 @@ agência anterior, com cabeçalho, rodapé, menu e endereço diferentes.
   autoridade de SEO para terceiros. Links para `gov.br` e fontes legítimas foram
   mantidos, com `rel="noopener nofollow"`.
 - **FAQ corrigido.** O site antigo repetia o mesmo bloco de perguntas (sobre MEI)
-  em todas as páginas de serviço, inclusive nas de condomínio e eleitoral. Cada
+  em todas as páginas de serviço, inclusive nas de condomínio e holding. Cada
   página agora tem FAQ próprio, com marcação `FAQPage`.
 - **Missão corrigida.** Dizia *"ser reconhecida pelo mercado norte e nordeste"* —
   a empresa fica em Santa Catarina. Era texto copiado de outra empresa.
-- **Contabilidade eleitoral promovida.** Era página órfã, sem link a partir da
-  home. Agora está no menu e tem seção dedicada na home.
+- **Contabilidade eleitoral removida.** O serviço não é oferecido pelo escritório.
+  A página, o item de menu, os cards e as menções em textos, metatags e sitemap
+  foram retirados do site.
 - **"35 anos" virou "desde 1990"** — a empresa foi fundada em 31/07/1990 e o
   número fixo já estava desatualizado.
 
