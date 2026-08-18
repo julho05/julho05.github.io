@@ -1,0 +1,7 @@
+# Ferramentas de desenvolvimento — não fazem parte do site publicado
+_build/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
